@@ -1,10 +1,28 @@
 # 🛍️ Customer Segmentation with Clustering
 
+## 📚 Table of Contents
+
+1. [📖 Project Overview](#project-overview)
+2. [🧰 Tech Stack and Libraries](#tech-stack-and-libraries)
+3. [🎯 Project Structure](#project-structure)
+   - [Data Loading & Preprocessing](#data-loading--preprocessing)
+   - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+   - [Feature Engineering](#feature-engineering)
+   - [Clustering](#clustering)
+   - [Insights & Analysis](#insights--analysis)
+4. [🚀 Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+5. [📊 Key Results](#key-results)
+6. [📂 Folder Structure](#folder-structure)
+7. [📜 License](#license)
+8. [📫 Contact](#contact)
+
 Welcome to the **Customer Segmentation** project! This project focuses on analyzing customer data and segmenting customers into distinct groups using clustering techniques, making it easier for businesses to understand and target their audience effectively. 🚀
 
 ## 📂 Project Overview
 
-In this project, we utilize **machine learning clustering algorithms** to classify customers into different segments based on their purchasing behavior. This segmentation helps in identifying unique characteristics of customer groups and can improve marketing strategies, product placements, and personalized recommendations.
+In this project, we utilize **machine learning clustering algorithms** to classify customers into different segments based on their purchasing behavior. This segmentation helps identify unique characteristics of customer groups, allowing businesses to tailor marketing strategies, optimize product placements, and enhance personalized recommendations for different customer segments.
 
 ### 🧰 Tech Stack and Libraries
 
@@ -81,3 +99,13 @@ Each cluster represents a unique customer group based on purchasing patterns and
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+## 📫 Contact
+
+Feel free to reach out for questions or support:
+
+- **Name**: Om Subhash Shrivastav
+- **Email**: [omshrivastav1005@gmail.com](mailto:omshrivastav1005@gmail.com)
+- **GitHub**: [Omshrivastav12](https://github.com/Omshrivastav12)
+
+Happy recommending! 🌟
