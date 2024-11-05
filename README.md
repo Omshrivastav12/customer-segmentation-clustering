@@ -1,7 +1,3 @@
-Here’s the updated README with the additional key result details:
-
----
-
 # 🛍️ Customer Segmentation with Clustering
 
 Welcome to the **Customer Segmentation** project! This project focuses on analyzing customer data and segmenting customers into distinct groups using clustering techniques, making it easier for businesses to understand and target their audience effectively. 🚀
@@ -85,7 +81,3 @@ Each cluster represents a unique customer group based on purchasing patterns and
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to copy and paste this updated README directly into your GitHub repository! Let me know if you’d like to add any more details.****
