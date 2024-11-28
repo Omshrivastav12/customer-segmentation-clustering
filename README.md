@@ -29,35 +29,11 @@ In this project, we utilize **machine learning clustering algorithms** to classi
 
 ### **Business Requirements for Clustering**
 
-1. **Customer Segmentation:**
+**Customer Segmentation:**
    - **Objective:** Group customers into segments based on their demographic, socio-economic, and geographic characteristics.
    - **Use Case:** Tailor marketing campaigns for different customer groups. For instance:
      - High-income young professionals (premium product targeting).
      - Elderly customers in small settlements (budget-friendly offerings).
-
-2. **Personalized Product Recommendations:**
-   - **Objective:** Understand customer preferences by clustering based on occupation, income, and age.
-   - **Use Case:** Recommend products or services suited to the identified cluster, e.g., luxury goods for high-income professionals or educational loans for younger, educated customers.
-
-3. **Market Expansion:**
-   - **Objective:** Identify underserved customer groups or regions (based on `Settlement size`).
-   - **Use Case:** Launch new branches, stores, or digital campaigns targeting clusters in small settlements or areas with specific customer profiles.
-
-4. **Credit Risk Assessment:**
-   - **Objective:** Categorize customers into risk profiles based on `Income`, `Age`, and `Marital status`.
-   - **Use Case:** Financial institutions can offer customized loan schemes or credit limits based on the customer's cluster (e.g., low-risk clusters get higher credit limits).
-
-5. **Improving Customer Retention:**
-   - **Objective:** Cluster customers to identify groups more likely to churn (e.g., low-income, older age, or smaller settlements).
-   - **Use Case:** Design targeted loyalty programs or retention strategies.
-
-6. **Workforce Planning:**
-   - **Objective:** Analyze customer clusters based on `Occupation` and `Settlement size` to understand demand patterns.
-   - **Use Case:** Allocate resources or sales representatives to areas with higher customer density for specific occupations or settlement sizes.
-
-7. **Enhancing Education Services:**
-   - **Objective:** Use `Education`, `Age`, and `Settlement size` to cluster customers who might need educational services or upskilling programs.
-   - **Use Case:** Promote online courses or skill-building workshops to clusters with high educational needs.
      
 
 ### 📂 Dataset Source
