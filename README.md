@@ -20,15 +20,26 @@
 
 Welcome to the **Customer Segmentation** project! This project focuses on analyzing customer data and segmenting customers into distinct groups using clustering techniques, making it easier for businesses to understand and target their audience effectively. 🚀
 
+---
+
 ## 📂 Project Overview
 
 In this project, we utilize **machine learning clustering algorithms** to classify customers into different segments based on their purchasing behavior. This segmentation helps identify unique characteristics of customer groups, allowing businesses to tailor marketing strategies, optimize product placements, and enhance personalized recommendations for different customer segments.
+
+### 📂 Dataset Source
+
+The dataset used in this project is available on Kaggle:  
+[**Customer Clustering Dataset**](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering)
+
+---
 
 ### 🧰 Tech Stack and Libraries
 
 - **Python** 🐍: The backbone of our project
 - **Jupyter Notebook** 📓: For organizing code, visualizations, and insights in a single, interactive document
 - **Libraries**: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `plotly`
+
+---
 
 ## 🎯 Project Structure
 
@@ -56,6 +67,8 @@ In this project, we utilize **machine learning clustering algorithms** to classi
     - Summarize key insights for each cluster.
     - Present actionable business insights for targeting and marketing strategies.
 
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -80,6 +93,8 @@ Make sure you have **Python 3.x** installed.
     jupyter notebook customer-segmentation-clustering.ipynb
     ```
 
+---
+
 ## 📊 Key Results
 
 - **Gaussian Mixture Model (GMM)** outperformed other methods such as K-means, DBSCAN, and Hierarchical Clustering.
@@ -87,6 +102,8 @@ Make sure you have **Python 3.x** installed.
 - Model selection metrics **AIC** and **BIC** confirmed GMM as the most suitable model, supported by the highest **Rand Index** and **Silhouette Score**.
 
 Each cluster represents a unique customer group based on purchasing patterns and behavior, providing valuable insights for targeted marketing. 📈
+
+---
 
 ## 📂 Folder Structure
 
@@ -96,9 +113,13 @@ Each cluster represents a unique customer group based on purchasing patterns and
 └── README.md                              # Project description and instructions
 ```
 
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+---
 
 ## 📫 Contact
 
